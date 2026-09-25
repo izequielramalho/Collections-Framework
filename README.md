@@ -1,89 +1,44 @@
-# 📚 Java Collections Framework
+# Collections Framework - DIO
 
-Estudos sobre o **Collections Framework do Java**, abordando as principais estruturas de dados e a Stream API.
+Repositório criado durante o curso da DIO,
+documentando meu aprendizado sobre Collections Framework em Java.
 
-## 📖 Conteúdo do curso
+## Conteúdo
 
-### 1. Introdução
-
-- Apresentação do curso
+### Introdução
+- Apresentação e objetivos do curso
 - Visão geral do Collections Framework
-- Introdução às Collections
 
-**Status:** ✅ Concluído
-
----
-
-### 2. List
-
-Coleções que mantêm os elementos em uma sequência ordenada.
-
-- Iterações ordenadas
-- Métodos da interface `List`
-- Ordenação de elementos
+### Lists
+- **List** → coleções com iteração ordenada
+- Métodos da interface List
+- Ordenação de elementos em uma coleção List
 - Exercícios propostos
 
-**Status:** ✅ Concluído
-
----
-
-### 3. Set
-
-Coleções que trabalham com **elementos únicos**, não permitindo duplicidades.
-
-- Conceito de `Set`
-- Principais métodos
-- Ordenação dos elementos
+### Set
+- **Set** → coleções que garantem a singularidade dos elementos
+- Métodos da interface Set
+- Ordenação de elementos em uma coleção Set
 - Exercícios propostos
 
-**Status:** 🔄 Em andamento
-
----
-
-### 4. Map
-
-Coleções que trabalham com **pares chave-valor**.
-
-- Conceito de `Map`
-- Principais métodos
-- Ordenação
+### Map
+- **Map** → coleções formadas por pares de chave e valor
+- Métodos da interface Map
+- Ordenação de elementos em uma coleção Map
 - Exercícios propostos
 
-**Status:** 🔄 Em andamento
-
----
-
-### 5. Stream API
-
-Introdução ao processamento de coleções utilizando a **Stream API**.
-
-- Visão geral da Stream API
-- Principais operações
-- Processamento de dados
+### Stream
+- **Stream API** → processamento de dados de coleções
+- Principais operações da Stream API
 - Exercícios e quiz
-- Conclusão do curso
 
-**Status:** ⏳ Pendente
+## Tecnologias
 
----
+- Java 17
+- IntelliJ IDEA
+- Git e GitHub
 
-## 🛠️ Tecnologias
+## Autor
 
-- Java
-- Collections Framework
-- List
-- Set
-- Map
-- Stream API
-
-## 🎯 Objetivo
-
-Praticar e compreender as principais ferramentas do **Collections Framework**, desenvolvendo uma base para trabalhar com coleções e processamento de dados em Java.
-
-## 📌 Progresso
-
-- [x] Introdução
-- [x] List
-- [ ] Set
-- [ ] Map
-- [ ] Stream API
+**Izequiel Ramalho de Sousa Alves**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Izequiel-blue)](https://linkedin.com/in/izequielramalho)
